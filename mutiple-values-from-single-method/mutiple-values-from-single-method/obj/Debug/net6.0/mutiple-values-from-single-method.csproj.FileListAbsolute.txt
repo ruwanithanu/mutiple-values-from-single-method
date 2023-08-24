@@ -1,0 +1,14 @@
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/bin/Debug/net6.0/mutiple-values-from-single-method
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/bin/Debug/net6.0/mutiple-values-from-single-method.deps.json
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/bin/Debug/net6.0/mutiple-values-from-single-method.runtimeconfig.json
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/bin/Debug/net6.0/mutiple-values-from-single-method.dll
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/bin/Debug/net6.0/mutiple-values-from-single-method.pdb
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/obj/Debug/net6.0/mutiple-values-from-single-method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/obj/Debug/net6.0/mutiple-values-from-single-method.AssemblyInfoInputs.cache
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/obj/Debug/net6.0/mutiple-values-from-single-method.AssemblyInfo.cs
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/obj/Debug/net6.0/mutiple-values-from-single-method.csproj.CoreCompileInputs.cache
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/obj/Debug/net6.0/mutiple-values-from-single-method.dll
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/obj/Debug/net6.0/refint/mutiple-values-from-single-method.dll
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/obj/Debug/net6.0/mutiple-values-from-single-method.pdb
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/obj/Debug/net6.0/mutiple-values-from-single-method.genruntimeconfig.cache
+/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/obj/Debug/net6.0/ref/mutiple-values-from-single-method.dll

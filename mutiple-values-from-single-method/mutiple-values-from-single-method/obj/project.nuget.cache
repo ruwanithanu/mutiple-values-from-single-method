@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cFq5C4kIhzZOyoVatAly68qva8zQQajuE1ZMWfLOzEjuWZWCNzf502CyA2j/Kx1ayhWQR9ZlhKfgDUQEFUP6ag==",
+  "success": true,
+  "projectFilePath": "/Users/ruwaniperera/Workspace/training/mutiple-values-from-single-method/mutiple-values-from-single-method/mutiple-values-from-single-method.csproj",
+  "expectedPackageFiles": [
+    "/Users/ruwaniperera/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/ruwaniperera/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/ruwaniperera/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.21/microsoft.netcore.app.host.osx-arm64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
